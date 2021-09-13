@@ -1,5 +1,4 @@
 # multidownload
-go multidownload
 
 基于go编写的多线程（协程）下载器
 
